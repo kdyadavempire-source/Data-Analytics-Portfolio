@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-Data Analytics projects using Python, SQL, Excel, Power BI, and MySQL.
+Data Analytics portfolio featuring SQL, Python, Excel, MySQL, and Power BI projects with business insights and interactive dashboards.
