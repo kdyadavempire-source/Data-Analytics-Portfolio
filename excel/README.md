@@ -1,14 +1,26 @@
 # Excel Analysis
 
-Excel was used for data validation, pivot-table analysis, KPI calculations, and business reporting.
+Microsoft Excel was used for data validation, KPI analysis, pivot-table analysis, and business reporting.
 
-## Analysis Includes
+## Excel Analysis Includes
 
-- Sales KPIs
-- Revenue KPIs
-- Product analysis
-- Category analysis
-- Regional analysis
-- Customer analysis
+- Data cleaning and validation
+- KPI calculations
 - Pivot tables
-- Charts
+- Sales analysis
+- Revenue analysis
+- Product performance
+- Category performance
+- Regional performance
+- Customer performance
+- Monthly revenue trends
+- Charts and business reporting
+
+## Key KPIs
+
+- Total Revenue
+- Total Profit
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Profit Margin
