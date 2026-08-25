@@ -1,0 +1,76 @@
+Order ID,Order Date,Customer ID,Customer Name,Product ID,Product Name,Category,Region,Quantity,Unit Price,Discount,Sales,Cost,Profit
+ORD000001,2024-01-15,C0001,Customer 0001,P001,Laptop Pro 14,Electronics,North,2,950,0.05,1805,1300,505
+ORD000002,2024-01-18,C0002,Customer 0002,P006,Wireless Headphones,Accessories,South,3,120,0.1,324,195,129
+ORD000003,2024-02-03,C0003,Customer 0003,P009,Office Chair,Furniture,East,1,220,0,220,135,85
+ORD000004,2024-02-11,C0004,Customer 0004,P003,Smartphone X,Electronics,West,2,620,0.15,1054,820,234
+ORD000005,2024-03-05,C0005,Customer 0005,P014,Wireless Mouse,Accessories,Central,4,45,0.05,171,88,83
+ORD000006,2024-03-12,C0006,Customer 0006,P010,Standing Desk,Furniture,North,3,390,0.05,1111.5,750,361.5
+ORD000007,2024-03-18,C0007,Customer 0007,P012,Monitor 27 Inch,Electronics,South,3,310,0.1,837,615,222
+ORD000008,2024-03-25,C0008,Customer 0008,P008,Smart Watch,Accessories,East,2,180,0,360,210,150
+ORD000009,2024-04-02,C0009,Customer 0009,P015,Printer,Office Supplies,West,1,240,0.15,204,155,49
+ORD000010,2024-04-10,C0010,Customer 0010,P002,Laptop Air 13,Electronics,Central,2,780,0.05,1482,1040,442
+ORD000011,2024-04-17,C0011,Customer 0011,P007,Bluetooth Speaker,Accessories,North,4,85,0.1,306,180,126
+ORD000012,2024-04-24,C0012,Customer 0012,P016,External SSD,Electronics,South,3,140,0,420,246,174
+ORD000013,2024-05-03,C0013,Customer 0013,P005,Tablet Pro,Electronics,East,2,450,0.15,765,600,165
+ORD000014,2024-05-11,C0014,Customer 0014,P013,Keyboard Mechanical,Accessories,West,5,95,0.05,451.25,260,191.25
+ORD000015,2024-05-19,C0015,Customer 0015,P009,Office Chair,Furniture,Central,3,220,0.1,594,405,189
+ORD000016,2024-05-27,C0016,Customer 0016,P020,Power Bank,Accessories,North,4,60,0,240,124,116
+ORD000017,2024-06-04,C0017,Customer 0017,P003,Smartphone X,Electronics,South,2,620,0.05,1178,820,358
+ORD000018,2024-06-12,C0018,Customer 0018,P018,Desk Lamp,Office Supplies,East,3,55,0.15,140.25,84,56.25
+ORD000019,2024-06-20,C0019,Customer 0019,P006,Wireless Headphones,Accessories,West,5,120,0.1,540,325,215
+ORD000020,2024-06-28,C0020,Customer 0020,P011,Bookshelf,Furniture,Central,2,160,0.05,304,190,114
+ORD000021,2024-07-06,C0021,Customer 0021,P001,Laptop Pro 14,Electronics,North,1,950,0,950,650,300
+ORD000022,2024-07-14,C0022,Customer 0022,P017,Webcam HD,Accessories,South,4,75,0.15,255,152,103
+ORD000023,2024-07-22,C0023,Customer 0023,P004,Smartphone Lite,Electronics,East,3,320,0.05,912,630,282
+ORD000024,2024-07-30,C0024,Customer 0024,P019,Office Supplies Kit,Office Supplies,West,6,65,0.1,351,210,141
+ORD000025,2024-08-07,C0025,Customer 0025,P014,Wireless Mouse,Accessories,Central,5,45,0,225,110,115
+ORD000026,2024-08-15,C0026,Customer 0026,P010,Standing Desk,Furniture,North,3,390,0.05,1111.5,750,361.5
+ORD000027,2024-08-23,C0027,Customer 0027,P012,Monitor 27 Inch,Electronics,South,2,310,0.1,558,410,148
+ORD000028,2024-09-01,C0028,Customer 0028,P008,Smart Watch,Accessories,East,4,180,0.15,612,420,192
+ORD000029,2024-09-09,C0029,Customer 0029,P015,Printer,Office Supplies,West,2,240,0,480,310,170
+ORD000030,2024-09-17,C0030,Customer 0030,P002,Laptop Air 13,Electronics,Central,1,780,0.1,702,520,182
+ORD000031,2024-09-25,C0031,Customer 0031,P007,Bluetooth Speaker,Accessories,North,5,85,0.05,403.75,225,178.75
+ORD000032,2024-10-03,C0032,Customer 0032,P016,External SSD,Electronics,South,4,140,0.15,476,328,148
+ORD000033,2024-10-11,C0033,Customer 0033,P005,Tablet Pro,Electronics,East,3,450,0.1,1215,900,315
+ORD000034,2024-10-19,C0034,Customer 0034,P013,Keyboard Mechanical,Accessories,West,2,95,0,190,104,86
+ORD000035,2024-10-27,C0035,Customer 0035,P009,Office Chair,Furniture,Central,4,220,0.05,836,540,296
+ORD000036,2024-11-04,C0036,Customer 0036,P020,Power Bank,Accessories,North,6,60,0.1,324,186,138
+ORD000037,2024-11-12,C0037,Customer 0037,P003,Smartphone X,Electronics,South,3,620,0.15,1581,1230,351
+ORD000038,2024-11-20,C0038,Customer 0038,P018,Desk Lamp,Office Supplies,East,2,55,0.05,104.5,56,48.5
+ORD000039,2024-11-28,C0039,Customer 0039,P006,Wireless Headphones,Accessories,West,4,120,0,480,260,220
+ORD000040,2024-12-06,C0040,Customer 0040,P011,Bookshelf,Furniture,Central,3,160,0.15,408,285,123
+ORD000041,2024-12-14,C0041,Customer 0041,P001,Laptop Pro 14,Electronics,North,2,950,0.1,1710,1300,410
+ORD000042,2024-12-22,C0042,Customer 0042,P017,Webcam HD,Accessories,South,5,75,0.05,356.25,190,166.25
+ORD000043,2024-12-30,C0043,Customer 0043,P004,Smartphone Lite,Electronics,East,4,320,0,1280,840,440
+ORD000044,2025-01-07,C0044,Customer 0044,P019,Office Supplies Kit,Office Supplies,West,3,65,0.1,175.5,105,70.5
+ORD000045,2025-01-15,C0045,Customer 0045,P014,Wireless Mouse,Accessories,Central,6,45,0.05,256.5,132,124.5
+ORD000046,2025-01-23,C0046,Customer 0046,P010,Standing Desk,Furniture,North,2,390,0.15,663,500,163
+ORD000047,2025-01-31,C0047,Customer 0047,P012,Monitor 27 Inch,Electronics,South,5,310,0.1,1395,1025,370
+ORD000048,2025-02-08,C0048,Customer 0048,P008,Smart Watch,Accessories,East,3,180,0.05,513,315,198
+ORD000049,2025-02-16,C0049,Customer 0049,P015,Printer,Office Supplies,West,1,240,0.2,192,155,37
+ORD000050,2025-02-24,C0050,Customer 0050,P002,Laptop Air 13,Electronics,Central,2,780,0,1560,1040,520
+ORD000051,2025-03-04,C0051,Customer 0051,P007,Bluetooth Speaker,Accessories,North,4,85,0.15,289,180,109
+ORD000052,2025-03-12,C0052,Customer 0052,P016,External SSD,Electronics,South,2,140,0.05,266,164,102
+ORD000053,2025-03-20,C0053,Customer 0053,P005,Tablet Pro,Electronics,East,5,450,0.1,2025,1500,525
+ORD000054,2025-03-28,C0054,Customer 0054,P013,Keyboard Mechanical,Accessories,West,3,95,0,285,156,129
+ORD000055,2025-04-05,C0055,Customer 0055,P009,Office Chair,Furniture,Central,2,220,0.2,352,270,82
+ORD000056,2025-04-13,C0056,Customer 0056,P020,Power Bank,Accessories,North,5,60,0.05,285,155,130
+ORD000057,2025-04-21,C0057,Customer 0057,P003,Smartphone X,Electronics,South,4,620,0.1,2232,1640,592
+ORD000058,2025-04-29,C0058,Customer 0058,P018,Desk Lamp,Office Supplies,East,6,55,0.15,280.5,168,112.5
+ORD000059,2025-05-07,C0059,Customer 0059,P006,Wireless Headphones,Accessories,West,2,120,0.05,228,130,98
+ORD000060,2025-05-15,C0060,Customer 0060,P011,Bookshelf,Furniture,Central,4,160,0.1,576,380,196
+ORD000061,2025-05-23,C0061,Customer 0061,P001,Laptop Pro 14,Electronics,North,1,950,0.15,807.5,650,157.5
+ORD000062,2025-05-31,C0062,Customer 0062,P017,Webcam HD,Accessories,South,3,75,0,225,114,111
+ORD000063,2025-06-08,C0063,Customer 0063,P004,Smartphone Lite,Electronics,East,2,320,0.05,608,420,188
+ORD000064,2025-06-16,C0064,Customer 0064,P019,Office Supplies Kit,Office Supplies,West,5,65,0.15,276.25,175,101.25
+ORD000065,2025-06-24,C0065,Customer 0065,P014,Wireless Mouse,Accessories,Central,4,45,0.1,162,88,74
+ORD000066,2025-07-02,C0066,Customer 0066,P010,Standing Desk,Furniture,North,3,390,0,1170,750,420
+ORD000067,2025-07-10,C0067,Customer 0067,P012,Monitor 27 Inch,Electronics,South,2,310,0.15,527,410,117
+ORD000068,2025-07-18,C0068,Customer 0068,P008,Smart Watch,Accessories,East,5,180,0.1,810,525,285
+ORD000069,2025-07-26,C0069,Customer 0069,P015,Printer,Office Supplies,West,2,240,0.05,456,310,146
+ORD000070,2025-08-03,C0070,Customer 0070,P002,Laptop Air 13,Electronics,Central,3,780,0.15,1989,1560,429
+ORD000071,2025-08-11,C0071,Customer 0071,P007,Bluetooth Speaker,Accessories,North,6,85,0,510,270,240
+ORD000072,2025-08-19,C0072,Customer 0072,P016,External SSD,Electronics,South,4,140,0.1,504,328,176
+ORD000073,2025-08-27,C0073,Customer 0073,P005,Tablet Pro,Electronics,East,2,450,0.05,855,600,255
+ORD000074,2025-09-04,C0074,Customer 0074,P013,Keyboard Mechanical,Accessories,West,5,95,0.2,380,260,120
+ORD000075,2025-09-12,C0075,Customer 0075,P009,Office Chair,Furniture,Central,3,220,0.1,594,405,189
